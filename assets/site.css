@@ -54,7 +54,9 @@ main { padding: 56px 0 72px; }
   line-height: 1.02;
   font-weight: 700;
   letter-spacing: -0.035em;
+  text-wrap: balance;
 }
+.hero .name { white-space: nowrap; }
 .hero p { margin: 20px 0 0; max-width: 44ch; color: var(--muted); font-size: 20px; line-height: 1.5; }
 
 .shelf { list-style: none; margin: 64px 0 0; padding: 0; }
