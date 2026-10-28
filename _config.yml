@@ -4,4 +4,11 @@ lang: en
 defaults:
   - scope: { path: "" }
     values: { layout: default }
+  # Arabic pages live in an "ar" folder next to the English page.
+  - scope: { path: "ar" }
+    values: { lang: ar }
+  - scope: { path: "*/ar" }
+    values: { lang: ar }
+  - scope: { path: "*/*/ar" }
+    values: { lang: ar }
 exclude: [README.md]

@@ -1,105 +1,55 @@
 # Privacy Policy
 
-**Money – Bank Tracker** · Effective 28 October 2026 · [العربية](#سياسة-الخصوصية)
+Money – Bank Tracker · Last updated 28 October 2026 · [العربية](ar/)
 
-> **In short: Money collects no data. Everything you enter or import stays on your iPhone.** There are no accounts, servers, analytics, advertising or tracking.
+> **The short version:** Money doesn't collect your data. Everything you add or import stays on your iPhone. There's no account, no server, no analytics, no ads and no tracking.
 
-## What the app stores, and where
+## What stays on your iPhone
 
-Your accounts, transactions, budgets, goals, bills, Zakat records and settings are stored in a database on your iPhone, inside the app's private storage. The app has no server and does not send this data anywhere. It is excluded from iCloud and computer device backups, so it never leaves the device without you.
+Your accounts, transactions, budgets, goals, bills, Zakat records and settings are saved in the app's own storage on your iPhone. Money has no server and never sends this information anywhere. It's also left out of iCloud and computer backups, so it can't leave your phone without you knowing.
 
 ## Bank messages
 
-Money reads a bank message only when a Shortcuts automation that you create sends it to the app. Money never reads your Messages app or notifications on its own. The message is processed on your iPhone to find the amount, account and merchant. Its text is kept with the transaction so you can review it, unless you turn that off (Settings › Keep bank message text). Only the last digits of card and account numbers are stored.
+Money only reads a bank message when the Shortcuts automation you set up sends it to the app. It never looks through your Messages app or your notifications on its own.
 
-## Apple Pay transactions
+Each message is read on your iPhone to find the amount, the account and the merchant. The message text is kept with its transaction for 30 days, so you can check it if something looks wrong. You can change this to 7 or 90 days, or not keep it at all, under **Settings › Keep bank message text**. Money only ever stores the last few digits of a card or account number.
 
-If you set up the optional Wallet automation, Shortcuts passes the amount, merchant and card name of each Apple Pay payment to the app. These stay on your iPhone.
+## Apple Pay
+
+If you set up the optional Wallet automation, Shortcuts passes the amount, merchant and card name of each Apple Pay payment to Money. That information stays on your iPhone too.
 
 ## Contacts
 
-If you allow it, Money adds contact cards for your banks' message senders so Shortcuts can recognise bank alerts. It does not read, upload or change your other contacts.
+If you allow it, Money adds contact cards for your banks' message senders, so Shortcuts can tell bank messages apart from the rest. It doesn't read, upload or change any of your other contacts.
 
 ## Face ID
 
-If you turn on the app lock, Face ID is handled by iOS. Money only learns whether it succeeded and never has access to your face data.
+When you turn on the app lock, iOS handles Face ID. Money is only told whether unlocking worked. It never sees your face data.
 
 ## Backups
 
-Backups are created only when you ask. They are encrypted with a password you choose, which the app never stores, and saved where you choose (for example Files or iCloud Drive). Without the password a backup cannot be opened.
+Money only makes a backup when you ask for one. Each backup is encrypted with a password you choose, and the app doesn't store that password. You decide where the file goes, for example Files or iCloud Drive. Without the password, nobody can open it, including me.
 
 ## Notifications and widgets
 
-Reminders and widgets are produced on your iPhone. You can hide amounts in both from the app's settings.
+Reminders and widgets are created on your iPhone. If you don't want amounts to show on your Lock Screen or Home Screen, you can hide them in the app's settings.
 
-## Data shared with third parties
+## Sharing with others
 
-None. Money contains no third-party analytics, advertising or tracking code and makes no network requests.
+Money doesn't share anything with anyone. There's no third-party analytics, advertising or tracking code in the app, and it doesn't connect to the internet.
 
 ## Deleting your data
 
-In the app, open Settings › Backup, import & export › Erase all data, or delete the app. Backups you saved yourself remain where you saved them until you delete them.
+Go to **Settings › Backup, import & export › Erase all data**, or simply delete the app. Any backup files you saved yourself stay where you put them until you delete them.
 
 ## Children
 
-Money is not directed at children and collects no information from anyone.
+Money isn't made for children, and it doesn't collect information from anyone.
 
-## Changes
+## Changes to this policy
 
-If this policy changes, the new version will be published on this page with a new effective date.
+If anything changes, I'll update this page and the date at the top. The privacy policy inside the app is updated with the next app version.
 
 ## Contact
 
-[nasr2ldin@gmail.com](mailto:nasr2ldin@gmail.com)
-
----
-
-<div dir="rtl" lang="ar" markdown="1">
-
-# سياسة الخصوصية
-
-**Money – Bank Tracker** · سارية من 28 أكتوبر 2026
-
-> **باختصار: لا يجمع تطبيق Money أي بيانات. كل ما تُدخله أو تستورده يبقى على جهاز iPhone الخاص بك.** لا توجد حسابات أو خوادم أو تحليلات أو إعلانات أو تتبّع.
-
-## ما يُخزَّن وأين
-
-تُحفظ حساباتك ومعاملاتك وميزانياتك وأهدافك وفواتيرك وسجلات الزكاة والإعدادات في قاعدة بيانات على جهازك داخل مساحة التطبيق الخاصة. لا يملك التطبيق خادمًا ولا يرسل هذه البيانات إلى أي جهة، وهي مستثناة من نسخ iCloud وأجهزة الكمبيوتر الاحتياطية.
-
-## رسائل البنك
-
-يقرأ التطبيق رسالة البنك فقط عندما يرسلها إليه اختصار تُنشئه أنت في تطبيق الاختصارات، ولا يقرأ تطبيق الرسائل أو الإشعارات من تلقاء نفسه. تُعالَج الرسالة على جهازك، ويُحفظ نصها مع المعاملة للمراجعة ما لم توقف ذلك من الإعدادات. لا يُحفظ من أرقام البطاقات والحسابات إلا آخر الأرقام.
-
-## مدفوعات Apple Pay
-
-إذا أعددت اختصار المحفظة الاختياري، يمرّر تطبيق الاختصارات مبلغ كل عملية Apple Pay واسم التاجر واسم البطاقة إلى التطبيق، وتبقى على جهازك.
-
-## جهات الاتصال
-
-إذا سمحت بذلك، يضيف التطبيق بطاقات اتصال لمرسلي رسائل البنوك فقط حتى يتعرّف تطبيق الاختصارات على رسائل البنك، ولا يقرأ جهات اتصالك الأخرى أو يغيّرها.
-
-## Face ID
-
-يتولى نظام iOS عملية Face ID عند تفعيل قفل التطبيق، ولا يصل التطبيق إلى بيانات وجهك.
-
-## النسخ الاحتياطية
-
-تُنشأ النسخ الاحتياطية عند طلبك فقط، وتُشفَّر بكلمة مرور تختارها ولا يحفظها التطبيق، وتُحفظ حيث تختار.
-
-## مشاركة البيانات
-
-لا تتم مشاركة أي بيانات مع أي طرف. لا يحتوي التطبيق على أي أكواد تحليلات أو إعلانات أو تتبّع، ولا يتصل بالإنترنت.
-
-## حذف بياناتك
-
-من الإعدادات › النسخ الاحتياطي والاستيراد والتصدير › مسح كل البيانات، أو بحذف التطبيق.
-
-## التواصل
-
-[nasr2ldin@gmail.com](mailto:nasr2ldin@gmail.com)
-
-</div>
-
----
-
-[Support](../support/) · [Money – Bank Tracker](../) · [All apps](../../)
+Questions about your privacy? Email [info@nasraldin.com](mailto:info@nasraldin.com).
