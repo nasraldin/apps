@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Applies to every app by Nasreldin Abdelfadeil that has no privacy page of its own in this repository. Effective 28 October 2026. · [العربية](#سياسة-الخصوصية)
+Applies to every app by Nasr Aldin that has no privacy page of its own in this repository. Effective 28 October 2026. · [العربية](#سياسة-الخصوصية)
 
 > **In short: my apps don't collect your data.** What you enter stays on your device unless an app's own page says otherwise.
 
@@ -38,7 +38,7 @@ Changes to this policy are published on this page with a new effective date.
 
 # سياسة الخصوصية
 
-تنطبق على كل تطبيقات Nasreldin Abdelfadeil التي ليست لها صفحة خصوصية خاصة في هذا المستودع. سارية من 28 أكتوبر 2026.
+تنطبق على كل تطبيقات Nasr Aldin التي ليست لها صفحة خصوصية خاصة في هذا المستودع. سارية من 28 أكتوبر 2026.
 
 > **باختصار: لا تجمع تطبيقاتي بياناتك.** ما تُدخله يبقى على جهازك ما لم تذكر صفحة التطبيق غير ذلك.
 

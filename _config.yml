@@ -1,3 +1,7 @@
-title: Apps by Nasreldin Abdelfadeil
+title: Apps by Nasr Aldin
 description: Privacy policies and support for my iPhone apps.
-theme: jekyll-theme-primer
+lang: en
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+exclude: [README.md]

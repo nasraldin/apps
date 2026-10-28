@@ -1,4 +1,4 @@
-# Apps by Nasreldin Abdelfadeil
+# Apps by Nasr Aldin
 
 Privacy policies and support for my iPhone apps.
 

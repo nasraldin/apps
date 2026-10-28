@@ -1,6 +1,6 @@
 # Support
 
-For apps by Nasreldin Abdelfadeil. Apps with their own page are listed on the [main page](../). · [العربية](#الدعم)
+For apps by Nasr Aldin. Apps with their own page are listed on the [main page](../). · [العربية](#الدعم)
 
 ## Get help
 
