@@ -8,6 +8,7 @@ Privacy policies and support pages for my iPhone apps.
 
 | App | Privacy | Support |
 |---|---|---|
+| [Auvra – Gold Prices & Markets](auvra/) | [Privacy Policy](auvra/privacy/) | [Support](auvra/support/) |
 | [Money – Bank Tracker](money-bank-tracker/) | [Privacy Policy](money-bank-tracker/privacy/) | [Support](money-bank-tracker/support/) |
 
 An app without its own folder here follows the [general privacy policy](privacy/) and [general support page](support/).
